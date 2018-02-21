@@ -16,12 +16,12 @@ Contact informations:
 - FlatWoken Icon Theme Free (trial version) on the Play Store https://play.google.com/store/apps/details?id=com.alecive.flatwokenfree
 - FlatWoken Icon Theme (full version) on the Play Store https://play.google.com/store/apps/details?id=com.alecive.flatwoken
 
-For any icon request and/or bug, please use github.
+For any icon request and/or bug, please use `github`.
 
 Design Guidelines
 ----------
 
-*FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design. 
+*FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design.
 
 *FlatWoken* icons are currently divided in two different icon sets:
 
@@ -47,7 +47,7 @@ In the repo there's an icon called `icon-template-longshadow-tutorial.svg` that 
 2. Let's duplicate WC, change the color according to the guidelines below (in this case `0-0-0-60` because we're having a colored background) and then `Path-> Break Apart`. Let's select only the bigger path (BP - the littler [LP] will be used later), and then duplicate it(BPD). Move the duplicated path 300px on the right and 300px on the bottom
 3. Select both BP and BPD, and then `Extensions-> from path -> Interpolate` (with parameters 0.0 200 2). Select both BP, BPD and the interpolation, and do `Object->Ungroup` and then `Path->Union`. You should have a big path (BPP) with a lot of points at its edge.
 4. Select both BPP and LP, and then `Path->Difference`. Move it to the background in order to highlight WC. Now duplicate BB, and select it alongside BPP. Click again on `Path->Intersection`, in order to have a shadow that doesn't go outside the frame.
-5. Now you have only to remove the blurred edges caused by the great number of nodes in the edges. The only appropriate way I've found (please notice that `Path->Simplify` is not enough accurate) is to remove all of them by hand. For each segment (e.g. in this template there are four segment) there should be only one node at the beginning and one at the end. Remove any other node, than remove any curvature of the bezier map, and that's it! You created a perfectly compliant icon for FlatWoken :)
+5. Now you have only to remove the blurred edges caused by the great number of nodes in the edges. The only appropriate way I've found (please notice that `Path->Simplify` is not enough accurate) is to remove all of them by hand. For each segment (e.g. in this template there are four segment) there should be only one node at the beginning and one at the end. Remove any other node, than remove any curvature of the Bezier map, and that's it! You created a perfectly compliant icon for FlatWoken :)
 
 ###### Guidelines for the Long Shadows (R-G-B-A)
 - `0-0-0-40` for an icon with a white/very clear background
@@ -87,7 +87,7 @@ If you're skilled enough and you're into the project so much that I don't even n
 ###### Contributors
 - [José Morales](https://plus.google.com/+Jos%C3%A9Morales87/posts) made an extension pack composed by 35 icons, that has been already integrated in the iconset
 - [Iohannes Quon Fabrum](https://plus.google.com/109260276583018639821/posts) created 24 more icons for KDE, that have been integrated in the main repository as well
-- [jkoldarr](https://github.com/jolkdarr) is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
+- [Brahim Djoudi](https://github.com/jolkdarr) is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
 - [tojarafal](https://github.com/tojarafal) added 27 icons over the time
 - Minor contributions by:
   - [f43792](https://github.com/f43792) added a beautiful group of `minecraft` icons to the set

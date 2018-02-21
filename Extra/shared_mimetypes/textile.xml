@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/vnd.textile">
+	  <comment>Textile document</comment>
+	  <comment xml:lang="en_AU">Textile document</comment>
+	  <comment xml:lang="en_GB">Textile document</comment>
+	  <comment xml:lang="fr">document Textile</comment>
+	  <sub-class-of type="text/plain"/>
+	  <glob pattern="*.textile"/>
+   </mime-type>
+</mime-info>

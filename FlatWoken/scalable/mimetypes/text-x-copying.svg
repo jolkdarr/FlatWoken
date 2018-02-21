@@ -1044,6 +1044,11 @@
         <cc:license
            rdf:resource="https://pixabay.com/en/certificate-official-red-seal-161050/" />
         <dc:source>pixabay.com</dc:source>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Brahim Djoudi</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
     </rdf:RDF>
   </metadata>

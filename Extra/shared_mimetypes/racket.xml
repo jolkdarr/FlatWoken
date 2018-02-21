@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/vnd.racket">
+     <sub-class-of type="text/x-scheme"/>
+     <comment>Racket source file</comment>
+     <glob pattern="*.rkt"/>
+     <glob pattern="*.rktl"/>
+     <glob pattern="*.rktd"/>
+     <glob pattern="*.plt"/>
+   </mime-type>
+   
+   <mime-type type="text/vnd.scribble">
+     <sub-class-of type="text/plain"/>
+     <comment>Scribble documentation file</comment>
+     <glob pattern="*.scrbl"/>
+   </mime-type>
+</mime-info>

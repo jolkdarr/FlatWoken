@@ -2,6 +2,7 @@
 <mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
   <mime-type type="text/x-less">
     <comment>LESS file</comment>
+    <sub-class-of type="text/css"/>
     <glob pattern="*.less"/>
   </mime-type>
 </mime-info>

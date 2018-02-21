@@ -5,6 +5,11 @@
      <comment>Clojure source file</comment>
      <glob pattern="*.clj"/>
      <glob pattern="*.cljr"/>
-     <glob pattern="*.cljs"/>
+   </mime-type>
+   
+   <mime-type type="text/x-clojurescript">
+      <sub-class-of type="text/x-clojure"/>
+      <comment>ClojureScript file</comment>
+      <glob pattern="*.cljs"/>
    </mime-type>
 </mime-info>

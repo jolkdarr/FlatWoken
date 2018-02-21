@@ -4346,6 +4346,11 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Brahim Djoudi</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4463,6 +4468,22 @@
          id="path3981-7"
          style="opacity:0.2;color:#000000;fill:url(#linearGradient4086-12);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
+  </g>
+  <g
+     transform="translate(-672.21227,-260.39029)"
+     id="g4916">
+    <path
+       d="m 735.91276,409.23861 0,-11.57951 127.37461,0 0,11.57951 z"
+       id="path53"
+       style="fill:#8c5911" />
+    <path
+       d="m 759.07177,328.18204 v 11.57951 h -11.5795 v 11.57951 h -11.57951 v 11.57951 h 23.15901 v 34.73853 h 11.5795 v -34.73853 h 23.159 v -11.57951 h -11.5795 v -11.57951 h -11.5795 v -11.57951 z"
+       id="path55"
+       style="fill:#8c5911" />
+    <path
+       d="m 828.54887,328.18204 v 11.57951 h -11.5795 v 11.57951 h -11.5796 v 11.57951 h 23.1591 v 34.73853 h 11.5795 v -34.73853 h 23.159 v -11.57951 h -11.5795 v -11.57951 h -11.5795 v -11.57951 z"
+       id="path57"
+       style="fill:#8c5911" />
   </g>
   <g
      transform="matrix(2.0920502,0,0,2.0920502,-677.39378,123.28833)"

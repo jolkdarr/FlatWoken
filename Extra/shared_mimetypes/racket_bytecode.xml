@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="application/vnd.racket.bytecode">
+     <sub-class-of type="application/octet-stream"/>
+     <comment>Racket bytecode file</comment>
+     <glob pattern="*.zo"/>
+   </mime-type>
+</mime-info>

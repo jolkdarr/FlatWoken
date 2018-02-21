@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/slice">
+     <sub-class-of type="text/plain"/>
+     <comment>Slice specification file</comment>
+     <glob pattern="*.ice"/>
+   </mime-type>
+</mime-info>
